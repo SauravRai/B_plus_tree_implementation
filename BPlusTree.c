@@ -1,6 +1,5 @@
 /******This is a B_tree implementaion in C language :
 Author : Saurav Rai
-Regd No: 17558
 ****/
 #include <stdio.h>
 #include <stdlib.h>
